@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+img:hover{
+   background-color: aqua;
+}
+
+.back{
+    background-color: papayawhip;
+}
+
+.bacon{
+    background-color: gray;
+}
+
+.broccoli{
+    background-color: palevioletred;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: purple;
+}
